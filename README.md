@@ -4,13 +4,23 @@
 
 ---
 
+**Nama : Askaria Davan Dafyanza**
+
+Program Studi Teknik Informatika
+
+Universitas Pelita Bangsa
+
+Mata Kuliah Pengolahan Citra
+
+---
+
 ## Deskripsi Proyek
 
 Aplikasi Pengolahan Citra Digital merupakan aplikasi desktop berbasis **Python**, **OpenCV**, dan **Tkinter** yang dikembangkan untuk mengimplementasikan berbagai teknik dasar pengolahan citra digital pada dataset wajah selebriti.
 
 Pengguna dapat mengunggah gambar wajah, kemudian memilih berbagai metode pengolahan citra melalui antarmuka grafis (GUI). Hasil pengolahan akan ditampilkan secara langsung dan dapat disimpan sebagai file gambar.
 
-Proyek ini dibuat sebagai **Tugas Ujian Akhir Semester (UAS)** Mata Kuliah **Pengolahan Citra Digital**.
+Proyek ini dibuat sebagai **Tugas Ujian Akhir Semester (UAS)** Mata Kuliah **Pengolahan Citra**.
 
 ---
 
@@ -179,14 +189,18 @@ Aplikasi mampu menghasilkan beberapa keluaran berupa:
 
 ---
 
-# Penulis
+<img width="1920" height="1200" alt="messigray" src="https://github.com/user-attachments/assets/98f72154-8465-480b-b83b-e4cbeb09ffa1" />
+<img width="1920" height="1200" alt="messibinary" src="https://github.com/user-attachments/assets/a9608a10-1020-4d1a-bc89-1f89babbe220" />
+<img width="1920" height="1200" alt="messihistogram" src="https://github.com/user-attachments/assets/a3e90449-74c8-4274-ad95-feeff8e4c00d" />
+<img width="1920" height="1200" alt="messicontrast" src="https://github.com/user-attachments/assets/8978c7a3-35d1-4269-8aef-2e1e1026509e" />
+<img width="1920" height="1200" alt="messibrightness" src="https://github.com/user-attachments/assets/d1bc8fc2-ff48-4e1b-a9d0-06852798b8bf" />
+<img width="1920" height="1200" alt="messimean" src="https://github.com/user-attachments/assets/0398c4b5-beee-48df-b2c7-c568f09462b5" />
+<img width="1920" height="1200" alt="messimedian" src="https://github.com/user-attachments/assets/ba26e76e-3f55-4c6d-b9e8-7cd154211756" />
+<img width="1920" height="1200" alt="messigaussian" src="https://github.com/user-attachments/assets/02290f4c-0361-4f02-9c4c-cd7710a21c39" />
+<img width="1920" height="1200" alt="messisobel" src="https://github.com/user-attachments/assets/b40173a5-f7e5-4898-be8f-eab186518133" />
+<img width="1920" height="1200" alt="messicanny" src="https://github.com/user-attachments/assets/30889e2d-d6a9-41b8-8573-239436d75144" />
+<img width="1920" height="1200" alt="messithreshold" src="https://github.com/user-attachments/assets/47e83e87-7035-4008-a5d5-c03006bb2069" />
+<img width="1920" height="1200" alt="messikmeans" src="https://github.com/user-attachments/assets/a6f62205-d01e-4ec4-a1a5-f2efda193eba" />
+<img width="1920" height="1200" alt="messifacedetection" src="https://github.com/user-attachments/assets/f2de1eb8-cb96-42ed-b8c4-3ec7e40ccd1b" />
 
-**Nama : Askaria Davan Dafyanza**
-
-Program Studi Teknik Industri Otomotif
-
-Universitas Pelita Bangsa
-
-Mata Kuliah Pengolahan Citra Digital
-
-Tahun 2026
+---
